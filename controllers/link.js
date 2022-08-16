@@ -10,7 +10,6 @@ exports.create = (req, res) => {
     type,
     medium,
     slug,
-    clicks,
   });
   console.log(categories);
   link.postedBy = req.user_id;
