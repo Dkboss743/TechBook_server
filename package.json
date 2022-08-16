@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
@@ -22,7 +22,7 @@
     "lodash": "^4.17.21",
     "mongoose": "^6.4.3",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.18",
+    "nodemon": "^2.0.19",
     "shortid": "^2.2.16",
     "slugify": "^1.6.5",
     "uuid": "^8.3.2"
